@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title: Site Title
+title: Personal Smith
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Marques 
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "Library technician"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: www.linkedin.com/in/marques-smith
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
